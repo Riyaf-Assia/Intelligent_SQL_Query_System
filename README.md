@@ -2,6 +2,9 @@
 
 This project is an AI-powered assistant that translates natural language questions into SQL queries, executes them on a MySQL database, and returns human-readable answers. It leverages LangChain, HuggingFace embeddings, Chroma vector store, and Mistral AI for language modeling.
 
+# Pipeline
+![sql_usecase](https://github.com/user-attachments/assets/3fa5ae04-8d6b-490e-be73-ce23ffae2c48)
+
 # 📌 Features
 
 Natural Language to SQL: Converts user questions into syntactically correct SQL queries.
