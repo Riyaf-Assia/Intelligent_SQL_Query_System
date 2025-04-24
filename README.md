@@ -27,9 +27,13 @@ Create a .env file in the project root:
 # 🧩 Project Structure
 
 few_shots.py: Contains example question-query pairs for few-shot learning.
+
 Smart_SQL_Engine.ipynb : Jupyter notebook of the code to run the system.
+
 README.md: Project documentation.
+
 .env: Environment variables (not included in the repository).
+
 requirements.txt : File for the required installations 
 
 
