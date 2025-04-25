@@ -41,6 +41,8 @@ requirements.txt : File for the required installations
 
 database.sql : SQL code to generate the DB
 
+app.py : Streamlit application
+
 
 
 
